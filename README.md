@@ -9,5 +9,5 @@ Note if you choose to train the network,I have set a recognition threshold of 80
 This means the training section will only terminate once the recognition rate reaches 80% on the train data. The last time I trained our network, I got to that threshold after 250 Epochs. 
 Once the training is complete, the trained network will be saved as “TrainedNetwork.txt” replacing the old one.
 ## B
-The second method you can use to run the NN is to open the Neural Network folder using IntelliJ. Once opened, you can test the NN by simply running the main class named “RunProgram.java”. 
+You can alsoo run the NN by opening the Neural Network folder using IntelliJ. Once opened, you can test the NN by simply running the main class named “RunProgram.java”. 
 Instructions on how to continue will be displayed which is same as above.
