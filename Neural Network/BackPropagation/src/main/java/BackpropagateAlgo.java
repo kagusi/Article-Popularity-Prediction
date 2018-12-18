@@ -38,7 +38,7 @@ public class BackpropagateAlgo {
             final int[] numberOfCorrectPrediction = {0};
             this.confusionMatrix= new int[2][3];
 
-            //Feed input in parallel to the network
+            //Feed input to the network
             this.dataset.rows().forEach(row -> {
 
                 // True if the class was predicted correctly
