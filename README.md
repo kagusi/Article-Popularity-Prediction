@@ -1,6 +1,6 @@
 # Article-Popularity-Prediction
 The goal of this project is to be able to take an online article and be able to predict how popular it will be.
-This Neural Network classifier was build using Java Maven on IntelliJ and  there are two ways to run this program:
+This Neural Network classifier was built using Java Maven on IntelliJ and  there are two ways to run this program:
 ## A
 I have packaged our program into a “Jar File” named “BackPropagation.jar” which can be found in the folder named “Packaged_Jar_Project”. 
 To run this file, simply open command prompt or bash and type “java -jar BackPropagation.jar”. Instructions will display on how to test the NN.
