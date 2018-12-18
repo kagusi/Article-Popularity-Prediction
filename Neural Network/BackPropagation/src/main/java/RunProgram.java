@@ -16,7 +16,7 @@ public class RunProgram {
             int choice ;
 
             do{
-                System.out.println("Please press '2' to run Train the network OR press '3' to test the network using already trained network");
+                System.out.println("Please press '2' to Train the network OR press '3' to test the network using already trained network");
                 choice = s.nextInt();
             }
             while(choice != 2 && choice != 3);
